@@ -3,11 +3,11 @@
 DistXchange is the programmer of a list of self-written protocols for distributed data exchange.
 ## Concept
 ## Protocols
-- [ ] DCS (= Distributed Content Sharing)
-- [ ] DAS (= Distributed Account System)
-- [ ] DCC (= Distributed Crypto Currency)
-- [ ] DUS (= Distributed Update System)
-- [ ] DRS (= Distributed Relay System)
+- [ ] DCS (= Distributed Content Sharing) ` Port:20020 `
+- [ ] DCC (= Distributed Crypto Currency) ` Port:20021 `
+- [ ] DAS (= Distributed Account System) ` Port:20022 `
+- [ ] DRS (= Distributed Relay System) ` Port:20023 `
+- [ ] DUS (= Distributed Update System) ` Port:20024 `
 ### DRS - Distributed Relay System
 #### DRS Federation Offer
 ![DRS Federation Offer](./assets/drs_federation-offer.png "DRS Federation Offer")
